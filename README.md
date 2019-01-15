@@ -1,4 +1,4 @@
-##A example to show the knowledge of Node.js, MongoDB and RESTful
+## A example to show the knowledge of Node.js, MongoDB and RESTful
 
 This is a example about Node.js. 
 
@@ -12,7 +12,7 @@ Moreover, the example will show the CURD operations with RESTful principle.
 
 
 
-##The RESTful apis in the example
+## The RESTful apis in the example
 
 - ### Test Connection
 
